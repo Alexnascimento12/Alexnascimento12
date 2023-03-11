@@ -18,10 +18,6 @@ Iniciando o aprendizado em:
 
 <br>
 <br>
-Sou apaixonado por tecnologia e criatividade.
-
-- <a href="https://www.instagram.com/alexnascimentopro"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo" />
-<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexnascimento12&show_icons=true&bg_color=00000000)
 <br>
